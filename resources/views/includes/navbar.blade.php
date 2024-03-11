@@ -10,7 +10,7 @@
 
             <div class="navbar-brand flex-1 flex-lg-0">
                 <a href="" class="d-inline-flex align-items-center">
-                    <h3 class="text-white">Tasker Manager</h3>
+                    <h3 class="text-white">Task Manager</h3>
                     <!-- <img src="{{asset('images/logos/NewLogos/New CP Logo.png')}}" class="d-none d-sm-inline-block h-72px ms-3" alt=""> -->
                 </a>
             </div>
@@ -142,7 +142,7 @@
                     <a href="#" class="navbar-nav-link align-items-center rounded-pill p-1" data-bs-toggle="dropdown">
                         <div class="status-indicator-container">
                             <!-- <img src="../../../assets/images/demo/users/face11.jpg" class="w-32px h-32px rounded-pill" alt=""> -->
-                            <i class="fa fa-user-md fa-2x" alt=""></i>
+                            <i class="fa fa-user fa-2x" alt=""></i>
                             <span class="status-indicator bg-success"></span>
                         </div>
                         <span class="d-none d-lg-inline-block mx-lg-2">Admin</span>
